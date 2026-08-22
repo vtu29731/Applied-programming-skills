@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vtu29731/Applied-programming-skills/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/vtu29731/Applied-programming-skills/tree/master/0704-binary-search) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vtu29731/Applied-programming-skills/tree/master/1920-build-array-from-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
