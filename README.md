@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vtu29731/Applied-programming-skills/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
