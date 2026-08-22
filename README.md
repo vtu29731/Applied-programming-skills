@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/vtu29731/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/1470-shuffle-the-array) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu29731/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
