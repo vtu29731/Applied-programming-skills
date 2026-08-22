@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vtu29731/Applied-programming-skills/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1920-build-array-from-permutation](https://github.com/vtu29731/Applied-programming-skills/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/vtu29731/Applied-programming-skills/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
