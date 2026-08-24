@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu29731/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/vtu29731/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/vtu29731/Applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vtu29731/Applied-programming-skills/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/vtu29731/Applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu29731/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu29731/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/vtu29731/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/vtu29731/Applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29731/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
